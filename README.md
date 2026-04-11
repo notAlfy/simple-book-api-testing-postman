@@ -1,8 +1,8 @@
-##📚 Simple Book API Testing (Postman)
+## 📚 Simple Book API Testing (Postman)
 
 This project demonstrates end-to-end API testing using Postman for a Simple Book API. It includes request collections, automated test scripts, and validation of core API functionalities such as books, orders, and API client registration.
 
-##🚀 Features
+## 🚀 Features
 
 * End-to-end API testing for Book Management system
 * CRUD operations testing for books and orders
@@ -11,7 +11,7 @@ This project demonstrates end-to-end API testing using Postman for a Simple Book
 * API client registration testing
 * Environment variables usage
 
-##🔍 Tested Endpoints
+## 🔍 Tested Endpoints
 
 * GET /status → Check API status
   <img width="1125" height="801" alt="image" src="https://github.com/user-attachments/assets/891ffaf4-91e2-468c-8762-cd274e630f6c" />
@@ -50,7 +50,7 @@ This project demonstrates end-to-end API testing using Postman for a Simple Book
 * Negative testing (invalid order ID, missing fields)
 * Response time validation
 
-##📊 Test Coverage
+## 📊 Test Coverage
 
 This project covers:
 
@@ -59,33 +59,25 @@ This project covers:
 * API workflow testing (Books → Orders → Client Registration)
 * Positive and negative test scenarios
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * Postman
 * REST API
 * JavaScript (Postman test scripts)
 
-##📂 Project Structure
+## 📂 Project Structure
 
 `simple-book-api.postman_collection.json` → Main Postman collection
 
-#▶️ How to Run
+## ▶️ How to Run
 
 1. Download the collection JSON file
 2. Open Postman
 3. Click **Import**
 4. Run the collection using Collection Runner
 
-#📌 Learning Source
-
-Based on a tutorial by Valentin Despa on YouTube.
-
-#💡 Purpose
-
-#This project was created to practice API testing and improve skills in Postman, test automation, and API validation.
-
 ✨ Feel free to explore and provide feedback!
 
 👨‍💻 Author: Abrar Nawar Alfy  
 
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub: https://github.com/notAlfy
