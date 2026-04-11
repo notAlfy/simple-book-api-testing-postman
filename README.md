@@ -14,6 +14,8 @@ This project demonstrates end-to-end API testing using Postman for a Simple Book
 🔍 Tested Endpoints
 
 * GET /status → Check API status
+<img width="1125" height="801" alt="image" src="https://github.com/user-attachments/assets/891ffaf4-91e2-468c-8762-cd274e630f6c" />
+
 * GET /books → Retrieve list of books
 * GET /books/{id} → Retrieve single book details
 * POST /orders → Create a new book order
