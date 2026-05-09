@@ -2,7 +2,7 @@
 
 This project demonstrates end-to-end API testing using Postman for a Simple Book API. It includes request collections, automated test scripts, and validation of core API functionalities such as books, orders, and API client registration.
 
-## 🚀 Features
+##  Features
 
 * End-to-end API testing for Book Management system
 * CRUD operations testing for books and orders
@@ -11,7 +11,7 @@ This project demonstrates end-to-end API testing using Postman for a Simple Book
 * API client registration testing
 * Environment variables usage
 
-## 🔍 Tested Endpoints
+##  Tested Endpoints
 
 * GET /status → Check API status
   <img width="1125" height="801" alt="image" src="https://github.com/user-attachments/assets/891ffaf4-91e2-468c-8762-cd274e630f6c" />
@@ -41,7 +41,7 @@ This project demonstrates end-to-end API testing using Postman for a Simple Book
   <img width="1111" height="468" alt="image" src="https://github.com/user-attachments/assets/5a3cef50-ea49-4e5d-aeb7-1760ebccd3e1" />
 
 
-## 🧪 Sample Test Scenarios
+##  Sample Test Scenarios
 
 * Validate API status response (200 OK)
 * Verify book list retrieval and data structure
@@ -65,11 +65,11 @@ This project covers:
 * REST API
 * JavaScript (Postman test scripts)
 
-## 📂 Project Structure
+##  Project Structure
 
 `simple-book-api.postman_collection.json` → Main Postman collection
 
-## ▶️ How to Run
+##  How to Run
 
 1. Download the collection JSON file
 2. Open Postman
