@@ -2,6 +2,8 @@
 
 This project demonstrates end-to-end API testing using Postman for a Simple Book API. It includes request collections, automated test scripts, and validation of core API functionalities such as books, orders, and API client registration.
 
+Please read the documentation related to the api from the following link: https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md
+
 ##  Features
 
 * End-to-end API testing for Book Management system
